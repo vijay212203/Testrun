@@ -1,0 +1,36 @@
+h1{
+	color:red;
+
+	border:2px solid white;	
+	font-size:50px;
+	padding:25px;
+	
+
+}
+
+h2{
+	color:red;
+}
+
+body{
+	
+	color:red;
+	background-color:black;
+	border:8px solid white;
+      dispaly:flex;
+    text-align: center;
+	
+}
+button{
+	
+color:red;
+border-radius:15px;
+}
+ 
+
+form{
+	
+	     margin:auto;
+        
+}
+
